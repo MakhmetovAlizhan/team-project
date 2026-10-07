@@ -31,4 +31,8 @@ input {
 button {
     padding: 10px 20px;
     cursor: pointer;
+    border: none;
+    border-radius: 5px;
+    background: #333;
+    color: white;
 }
